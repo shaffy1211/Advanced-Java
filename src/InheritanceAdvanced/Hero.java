@@ -2,8 +2,8 @@ package InheritanceAdvanced;
 
 public class Hero {
 	//private properties
-	private int strenght;
-	private int speed;
+	protected int strenght;
+	protected int speed;
 	private int health;
 	//public properties
 	public String name;
