@@ -1,6 +1,6 @@
 package InheritanceAdvanced;
 
-public class Hero {
+public class Hero extends Entity{
 	//private properties
 	protected int strenght;
 	protected int speed;
